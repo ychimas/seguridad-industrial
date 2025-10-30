@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="com.sfcoursepress.seguridad-industrial" version="1.0"
+          xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+          xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                              http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+  </metadata>
+  <organizations default="org_1">
+    <organization identifier="org_1">
+      <title>Seguridad industrial</title>
+      <item identifier="item_0" identifierref="resource_0_0" isvisible="true">
+        <title>Introduccion a la seguridad industrial</title>
+      </item>
+      <item identifier="item_1" identifierref="resource_1_0" isvisible="true">
+        <title>La seguridad industrial y sus beneficios sociales</title>
+      </item>
+      <item identifier="item_2" identifierref="resource_2_0" isvisible="true">
+        <title>La importancia de la seguridad industrial hoy día</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="resource_0_0" type="webcontent" adlcp:scormType="sco" href="lecciones/leccion-1-momento-1.html">
+      <file href="lecciones/leccion-1-momento-1.html"/>
+    </resource>
+    <resource identifier="resource_0_1" type="webcontent" adlcp:scormType="sco" href="lecciones/leccion-1-momento-2.html">
+      <file href="lecciones/leccion-1-momento-2.html"/>
+    </resource>
+    <resource identifier="resource_0_2" type="webcontent" adlcp:scormType="sco" href="lecciones/leccion-1-momento-3.html">
+      <file href="lecciones/leccion-1-momento-3.html"/>
+    </resource>
+    <resource identifier="resource_1_0" type="webcontent" adlcp:scormType="sco" href="lecciones/leccion-2-momento-1.html">
+      <file href="lecciones/leccion-2-momento-1.html"/>
+    </resource>
+    <resource identifier="resource_1_1" type="webcontent" adlcp:scormType="sco" href="lecciones/leccion-2-momento-2.html">
+      <file href="lecciones/leccion-2-momento-2.html"/>
+    </resource>
+    <resource identifier="resource_1_2" type="webcontent" adlcp:scormType="sco" href="lecciones/leccion-2-momento-3.html">
+      <file href="lecciones/leccion-2-momento-3.html"/>
+    </resource>
+    <resource identifier="resource_1_3" type="webcontent" adlcp:scormType="sco" href="lecciones/leccion-2-momento-4.html">
+      <file href="lecciones/leccion-2-momento-4.html"/>
+    </resource>
+    <resource identifier="resource_2_0" type="webcontent" adlcp:scormType="sco" href="lecciones/leccion-3-momento-1.html">
+      <file href="lecciones/leccion-3-momento-1.html"/>
+    </resource>
+    <resource identifier="resource_2_1" type="webcontent" adlcp:scormType="sco" href="lecciones/leccion-3-momento-2.html">
+      <file href="lecciones/leccion-3-momento-2.html"/>
+    </resource>
+    <resource identifier="resource_2_2" type="webcontent" adlcp:scormType="sco" href="lecciones/leccion-3-momento-3.html">
+      <file href="lecciones/leccion-3-momento-3.html"/>
+    </resource>
+  </resources>
+</manifest>
