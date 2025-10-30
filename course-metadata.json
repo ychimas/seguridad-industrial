@@ -1,0 +1,78 @@
+{
+  "name": "Seguridad industrial",
+  "folderName": "seguridad-industrial",
+  "description": "este curso abarcara todo lo referente a la seguridad industrial",
+  "category": "Seguridad Industrial",
+  "lessons": [
+    {
+      "id": 1761845116204,
+      "name": "Introduccion a la seguridad industrial",
+      "moments": [
+        {
+          "id": 1761845139956,
+          "type": "slider",
+          "name": "momento1_1"
+        },
+        {
+          "id": 1761845140139,
+          "type": "slider",
+          "name": "momento1_2"
+        },
+        {
+          "id": 1761845140934,
+          "type": "slider",
+          "name": "momento1_3"
+        }
+      ]
+    },
+    {
+      "id": 1761845143529,
+      "name": "La seguridad industrial y sus beneficios sociales",
+      "moments": [
+        {
+          "id": 1761845172031,
+          "type": "slider",
+          "name": "momento2_1"
+        },
+        {
+          "id": 1761845172215,
+          "type": "slider",
+          "name": "momento2_2"
+        },
+        {
+          "id": 1761845172894,
+          "type": "slider",
+          "name": "momento2_3"
+        },
+        {
+          "id": 1761845177790,
+          "type": "slider",
+          "name": "momento2_4"
+        }
+      ]
+    },
+    {
+      "id": 1761845179515,
+      "name": "La importancia de la seguridad industrial hoy día",
+      "moments": [
+        {
+          "id": 1761845220267,
+          "type": "slider",
+          "name": "momento3_1"
+        },
+        {
+          "id": 1761845220588,
+          "type": "slider",
+          "name": "momento3_2"
+        },
+        {
+          "id": 1761845221934,
+          "type": "slider",
+          "name": "momento3_3"
+        }
+      ]
+    }
+  ],
+  "glossary": "Lorem Ipsum: ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.\n\nLorem Ipsum: ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.\n\nLorem Ipsum: ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.\n\nLorem Ipsum: ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.\n\nLorem Ipsum: ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.\n\nLorem Ipsum: ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.\n\nLorem Ipsum: ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.\n\nLorem Ipsum: ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.\n\nLorem Ipsum: ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+  "objectives": "Lorem Ipsum: ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta).\n\nLorem Ipsum: desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.\n\nLorem Ipsum: ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T."
+}
